@@ -1,0 +1,255 @@
+img.profile{
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+	border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+div.profile_section{
+    background-color: antiquewhite;
+    text-align: center;
+    height: 350px;
+}
+
+div.profile{
+    display: inline-block;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1.profile{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0298f8;
+}
+
+a.contact_link{
+    height: 30px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+span.contact_colon{
+    vertical-align: top;
+    color: grey;
+    font-size: x-large;
+    height: inherit;
+    line-height: 30px;
+    font-weight: bold;
+    float: left
+}
+
+span.contact_link{
+    vertical-align: top;
+    height: inherit;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    font-size: 11pt;
+}
+
+body {
+    width: 21cm;
+    height:29.7cm;
+    margin: 0;
+    position: relative;
+}
+
+div.details{
+    float: right;
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+}
+
+.contact_icon{
+    width: 30px;
+    float: left;
+    pointer-events: none;
+}
+
+div.personals{
+    background-color: #CDCFD0;
+    margin: 20px 15px 0 0;
+    border-radius: 5px;
+}
+
+span.personal{
+    color: olivedrab;
+}
+
+div.side_section{
+    margin: 0;
+    width: 330px;
+    background-color: #CDCFD0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+div.CV_section{
+    width: inherit;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    margin-top: 350px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-centered{
+    text-align: center;
+}
+
+.text-sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.skill{
+    height: 50px;
+    margin-top: 10px;
+}
+
+div.skill-bar{
+    height: 10px;
+    width: 100%
+}
+
+div.skill-bar-background{
+    flex-direction: row-reverse;
+    height:8px;
+    margin: 1px auto;
+    width: 80%;
+    background-color: darkgray;
+    border-radius: 4px;
+    display: flex;
+}
+
+h2.skill{
+    text-align: right;
+    padding-right: 10%;
+    margin: 5px 0;
+}
+
+div.skill-bar-filled{
+    background-color: blue;
+    border-radius: 5px;
+}
+
+div.skill-l1{
+    flex-basis: 20%;
+}
+
+div.skill-l2{
+    flex-basis: 30%;
+}
+
+div.skill-l3{
+    flex-basis: 50%;
+}
+
+div.skill-l4{
+    flex-basis: 75%;
+}
+
+div.skill-l5{
+    flex-basis: 100%;
+}
+
+.side-headline{
+    color: olivedrab;
+}
+
+.hobby{
+    font-family: Bangers;
+    color: orangered;
+    font-weight: initial;
+}
+
+div.CV_body{
+    height:100%;
+    margin-right: 330px;
+    overflow: hidden;
+}
+
+object.headline-icon{
+    margin-right: 10px;
+}
+
+section{
+    margin: 10px 15px;
+}
+
+.section-text{
+    margin-left: 15px;
+    display: block;
+}
+
+span.self-summary{
+    font-size: 20px;
+}
+
+div.employment-item{
+    margin-left: 15px;
+}
+
+.employment-duration{
+    color: gray;
+}
+
+.employment-title{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.employment-duration{
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+div.education-item{
+    margin-left: 15px;
+}
+
+.education-title{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.education-duration{
+    margin-top: 5px;
+    margin-bottom: 0;
+    color: gray;
+}
+.section-headline{
+    margin: 15px 0;
+}
+
+div.extra-curricular-item{
+    margin-left: 15px;
+}
+
+.extra-curricular-title{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.extra-curricular-duration{
+    margin-top: 5px;
+    margin-bottom: 0;
+    color: gray;
+}
+
+.extra-curricular-details{
+    margin-top: 10px;
+    display: block;
+}
