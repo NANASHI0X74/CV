@@ -1,0 +1,19 @@
+{
+  "name": "rians-html-cv",
+  "version": "0.1.0",
+  "description": "## purposes: - learning project - having a public CV - stepping stone to my own website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NANASHI0X74/CV.git"
+  },
+  "author": "rian.lindenberger@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/NANASHI0X74/CV/issues"
+  },
+  "homepage": "https://github.com/NANASHI0X74/CV#readme"
+}
