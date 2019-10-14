@@ -117,7 +117,6 @@ p{
 div.skill{
     height: auto;
     margin-top: 10px;
-    overflow: hidden;
 }
 
 div.skill-bar{
@@ -253,4 +252,8 @@ div.extra-curricular-item{
 .extra-curricular-details{
     margin-top: 10px;
     display: block;
+}
+
+div.skills{
+    overflow: hidden;
 }
