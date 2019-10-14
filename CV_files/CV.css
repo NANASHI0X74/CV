@@ -134,7 +134,7 @@ div.skill-bar-background{
     display: flex;
 }
 
-h2.skill{
+h1.skill, h2.skill, h3.skill, h4.skill, h5.skill, h6.skill{
     text-align: right;
     padding-right: 10%;
     margin: 10px 0;
