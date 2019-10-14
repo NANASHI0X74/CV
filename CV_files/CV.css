@@ -117,6 +117,7 @@ p{
 div.skill{
     height: auto;
     margin-top: 10px;
+    overflow: hidden;
 }
 
 div.skill-bar{
