@@ -115,18 +115,18 @@ p{
 }
 
 div.skill{
-    height: 50px;
+    height: auto;
     margin-top: 10px;
 }
 
 div.skill-bar{
-    height: 10px;
+    height: 5px;
     width: 100%
 }
 
 div.skill-bar-background{
     flex-direction: row-reverse;
-    height:8px;
+    height:4px;
     margin: 1px auto;
     width: 80%;
     background-color: darkgray;
@@ -137,7 +137,7 @@ div.skill-bar-background{
 h2.skill{
     text-align: right;
     padding-right: 10%;
-    margin: 5px 0;
+    margin: 10px 0;
 }
 
 div.skill-bar-filled{
