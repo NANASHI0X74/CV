@@ -216,6 +216,11 @@ div.employment-item{
     margin-bottom: 0;
 }
 
+.employment-details{
+    margin-top: 10px;
+    display: block;
+}
+
 div.education-item{
     margin-left: 15px;
 }
